@@ -1,0 +1,32 @@
+{
+  "name": "ripple",
+  "version": "1.0.0",
+  "description": "Ripple: real time codebase impact radar",
+  "main": "server.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saanvii024/ripple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saanvii024/ripple/issues"
+  },
+  "homepage": "https://github.com/saanvii024/ripple#readme",
+  "dependencies": {
+    "@babel/parser": "^7.29.7",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
