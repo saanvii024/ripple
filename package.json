@@ -24,6 +24,7 @@
   "homepage": "https://github.com/saanvii024/ripple#readme",
   "dependencies": {
     "@babel/parser": "^7.29.7",
+    "@babel/traverse": "^7.29.7",
     "express": "^5.2.1"
   },
   "devDependencies": {
